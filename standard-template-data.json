@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-19T08:59:56.938815431Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-19T09:02:01.080867786Z",
     "templateType": "trip_g",
     "propertyId": "1a6ad6db-aa9d-45f3-bfd5-c06faf0ca906",
     "homepageId": "01a1521b-3e8d-7b51-9d45-b5b22224783a"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 저녁 10시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.",
-    "usageGuide": "[공지사항]\n- 전체 객실 최고급 호텔식 침구류가 구비되어 있습니다.\n- 기물 파손시(이불, 소파, 가구 등) 반드시 펜션에 고지 부탁드립니다.\n- 투숙객 부주의로 인한 기물 파손시 손해배상 비용 청구됩니다.(세탁비, 기물 수리비 등)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 저녁 10시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[개별바베큐]\n- 이용 장소: 개별바베큐\n- 이용 요금: 4인기준 20,000원 / 숯 추가 5,000원 (1박기준/현장결제)\n- 이용 시간: 17:00~21:00\n- 우천 시 이용 불가\n- 동계 시 이용 불가\n※ 숯/그릴 개인지참 불가\n\n[애견동반]\n- 이용 객실: 전객실 동반가능\n- 이용 요금: 5kg미만 마리당 20,000원 / 5kg~10kg 마리당 30,000원 (1박기준/현장결제)\n- 제한 마릿수: 동반 마릿수 제한없음\n- 제한 무게: 5KG 미만 동반가능, 그 이상은 펜션 문의\n※ 애견동반을 원하시는 고객님은 사전에 펜션에 문의 부탁드리겠습니다!\n※ 애견용품 개인지참 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 마트: 차량 36분거리\n- 편의점: 차량 4분거리\n\n[잔디 마당]\n- 객실 앞에 반려견과 함께 즐길 수 있는 넓은 잔디마당이 있습니다.\n\n[주차장]\n- 주차장 보유\n- 주차 대수 정보: 총 10대 가능\n- 100호, 202호, 104호의 경우 차량 3대 이하로 제한\n\n[교통편]\n- 강원 인제군 북면 진부령로 301-102 이앤정",
+    "usageGuide": "- 전체 객실 최고급 호텔식 침구류가 구비되어 있습니다.\n- 기물 파손시(이불, 소파, 가구 등) 반드시 펜션에 고지 부탁드립니다.\n- 투숙객 부주의로 인한 기물 파손시 손해배상 비용 청구됩니다.(세탁비, 기물 수리비 등)\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n- 저녁 10시 이후 입실 시 반드시 펜션으로 사전 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n\n[개별바베큐]\n- 이용 장소: 개별바베큐\n- 이용 요금: 4인기준 20,000원 / 숯 추가 5,000원 (1박기준/현장결제)\n- 이용 시간: 17:00~21:00\n- 우천 시 이용 불가\n- 동계 시 이용 불가\n※ 숯/그릴 개인지참 불가\n\n[애견동반]\n- 이용 객실: 전객실 동반가능\n- 이용 요금: 5kg미만 마리당 20,000원 / 5kg~10kg 마리당 30,000원 (1박기준/현장결제)\n- 제한 마릿수: 동반 마릿수 제한없음\n- 제한 무게: 5KG 미만 동반가능, 그 이상은 펜션 문의\n※ 애견동반을 원하시는 고객님은 사전에 펜션에 문의 부탁드리겠습니다!\n※ 애견용품 개인지참 필수\n\n[편의 및 주변 시설]\n- 와이파이 보유\n\n- 마트: 차량 36분거리\n- 편의점: 차량 4분거리\n\n[잔디 마당]\n- 객실 앞에 반려견과 함께 즐길 수 있는 넓은 잔디마당이 있습니다.\n\n[주차장]\n- 주차장 보유\n- 주차 대수 정보: 총 10대 가능\n- 100호, 202호, 104호의 경우 차량 3대 이하로 제한\n\n[교통편]\n- 강원 인제군 북면 진부령로 301-102 이앤정",
     "reservationGuide": "- 전체 객실 최고급 호텔식 침구류가 구비되어 있습니다.\n- 기물 파손시(이불, 소파, 가구 등) 반드시 펜션에 고지 부탁드립니다.\n- 투숙객 부주의로 인한 기물 파손시 손해배상 비용 청구됩니다.(세탁비, 기물 수리비 등)",
     "province": "도/시",
     "city": "시/군/구",
@@ -257,7 +257,7 @@
         "id": "1bda23a8-ab65-458a-9acb-27776ba26782",
         "name": "편의 및 주변 시설",
         "description": "",
-        "usageGuide": "- 와이파이 보유\n\n- 마트: 차량 36분거리\n- 편의점: 차량 4분거리",
+        "usageGuide": "- 와이파이 보유\n\n- 마트: 차량 36분거리\n- 편의점: 차량 4분거리\n\n[잔디 마당]\n- 객실 앞에 반려견과 함께 즐길 수 있는 넓은 잔디마당이 있습니다.",
         "displayOrder": 5,
         "images": [
           {
@@ -386,7 +386,7 @@
           {
             "id": "ecb7bcbc-b53e-453c-9072-9140835b3095",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/r4SYkU57ELtO.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -396,7 +396,7 @@
           {
             "id": "da10af4a-6e9b-4522-8fb3-83c4056ad27b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/aQD6OFvPoRHU.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -404,7 +404,7 @@
           {
             "id": "49ab3107-3c0d-4f97-ad60-48ad8ac5f6b1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/eZi3cxKwBuaO.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -412,7 +412,7 @@
           {
             "id": "cb10e2ca-d0f2-4fac-8f10-fa6bafb824bc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/hwiq0Ymo2ejv.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -420,7 +420,7 @@
           {
             "id": "43352154-9dcd-4b91-b024-ccd567500a4d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/c7Ms13YjIAKv.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -428,7 +428,7 @@
           {
             "id": "23f6cd51-6e60-4c92-87af-737de03c8e33",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/fDvbOyjFQaUE.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -436,7 +436,7 @@
           {
             "id": "6d2902ed-4e4f-4b4f-9778-cc0dfbe226fa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/AMTkbYc9lX10.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -444,7 +444,7 @@
           {
             "id": "54f11936-222c-4521-91d8-d420cb53b9b6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/g4xTKXIqQszU.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -452,7 +452,7 @@
           {
             "id": "f35f9b97-cfc1-4cac-bca2-d8b1370c8177",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/06/17/GosUtw9zyx0N.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
